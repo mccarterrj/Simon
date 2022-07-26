@@ -8,7 +8,6 @@
 #' @param var1 name of variable 1
 #' @param var2 name of variable 2
 #'
-#'
 #' @return A tibble with the Pearson correlation and p-value
 #' @export
 #'
